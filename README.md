@@ -1,2 +1,0 @@
-# DeepLearning
-deep learning projects
